@@ -1,16 +1,18 @@
-### Hi there 👋
+Hi there 👋
 
-<!--
-**anugrahkresnaya/anugrahkresnaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Anugrah Kresnaya, a student who is interested in web development. And I like to share the results of projects that I have made so far
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I’m currently studying on Gunadarma University
+🌱 I’m currently learning 
+    - HTML & CSS
+    - JavaScript
+    - Bootstrap 5
+    - React JS
+    - Vue JS
+    - Python
+👯 I’m looking to collaborate on
+    - Web Development
+📫 How to reach me:
+    - Gmail: anugrahkresnaya.ak@gmail.com
+    - Instagram: https://www.instagram.com/anugrah_kresnaya/
+    - LinkedIn: https://www.linkedin.com/in/anugrah-kresnaya-5628671ab/
