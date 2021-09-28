@@ -1,6 +1,6 @@
 Hi there 👋
 
-I'm Anugrah Kresnaya, a student who is interested in web development. And I like to share the results of projects that I have made so far
+I'm Anugrah Kresnaya, a student who is interested in web development. And I like to share the results of projects that I have made so far.
 
 For You who maybe curious about Me:
 
