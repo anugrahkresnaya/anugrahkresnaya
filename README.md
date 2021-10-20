@@ -7,7 +7,7 @@ For You who might be curious about Me:
 🔭 I’m currently studying on 
 * Gunadarma University
 
-🌱 I’m currently learning 
+🌱 Super power that I'm currently training
 * HTML & CSS
 * JavaScript
 * Bootstrap 5
