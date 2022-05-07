@@ -1,18 +1,18 @@
 Hi there 👋
 
-I'm Anugrah Kresnaya, a student who is interested in web development. And I like to share the results of projects that I have made so far.
+I'm **Anugrah Kresnaya**, an Informatics Engineering Student who is interested in **web development**. And I like to share the results of projects that I have made so far.
 
 For You who might be curious about Me:
 
 🔭 I’m currently studying on 
 * Gunadarma University
 
-🌱 Super power that I'm currently training
+🌱 Super power that I have
 * HTML & CSS
 * JavaScript
 * Bootstrap 5
 * React JS
-* Vue JS
+* Chakra UI
 * Python
 
 👯 I’m looking to collaborate on
