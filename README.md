@@ -24,3 +24,5 @@ For You who might be curious about Me:
 * Instagram: https://www.instagram.com/anugrah_kresnaya/
 * LinkedIn: https://www.linkedin.com/in/anugrah-kresnaya-5628671ab/
 * Twitch: https://www.twitch.tv/kazecrowz
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anugrahkresnaya)](https://github.com/anuraghazra/github-readme-stats)
