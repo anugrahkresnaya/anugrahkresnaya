@@ -12,6 +12,7 @@ For You who might be curious about Me:
 * JavaScript
 * Bootstrap 5
 * React JS
+* NextJS
 * Chakra UI
 * Python
 
@@ -22,3 +23,4 @@ For You who might be curious about Me:
 * Gmail: anugrahkresnaya.ak@gmail.com
 * Instagram: https://www.instagram.com/anugrah_kresnaya/
 * LinkedIn: https://www.linkedin.com/in/anugrah-kresnaya-5628671ab/
+* Twitch: https://www.twitch.tv/kazecrowz
