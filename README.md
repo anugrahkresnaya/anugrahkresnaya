@@ -25,4 +25,8 @@ For You who might be curious about Me:
 * LinkedIn: https://www.linkedin.com/in/anugrah-kresnaya-5628671ab/
 * Twitch: https://www.twitch.tv/kazecrowz
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anugrahkresnaya)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anugrahkresnaya&theme=midnight-purple&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anugrahkresnaya&theme=midnight-purple&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+![codeee](https://user-images.githubusercontent.com/55924803/182826659-24a41822-d136-4151-8115-6810c1b50865.gif)
