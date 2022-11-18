@@ -15,6 +15,7 @@ For You who might be curious about Me:
 * NextJS
 * Chakra UI
 * Python
+* ExpressJS
 
 👯 I’m looking to collaborate on
 * Web Development
