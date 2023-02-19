@@ -11,11 +11,13 @@ For You who might be curious about Me:
 * HTML & CSS
 * JavaScript
 * Bootstrap 5
-* React JS
+* React
+* ReactJS
 * NextJS
 * Chakra UI
-* Python
+* Tailwind CSS
 * ExpressJS
+* Sequelize
 
 👯 I’m looking to collaborate on
 * Web Development
