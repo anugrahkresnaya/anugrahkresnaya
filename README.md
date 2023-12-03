@@ -1,10 +1,10 @@
 Hi there 👋
 
-I'm **Anugrah Kresnaya**, an Informatics Engineering Student who is interested in **web development**. And I like to share the results of projects that I have made so far.
+I'm **Anugrah Kresnaya**, a fresh graduate of Informatis who is interested in **web development**. And I like to share the results of projects that I have made so far.
 
 For You who might be curious about Me:
 
-🔭 I’m currently studying on 
+🔭 I graduated from
 * Gunadarma University
 
 🌱 Super power that I have
