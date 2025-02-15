@@ -10,14 +10,18 @@ For You who might be curious about Me:
 🌱 Super power that I have
 * HTML & CSS
 * JavaScript
+* Typescript
 * Bootstrap 5
 * React
 * ReactJS
 * NextJS
 * Chakra UI
+* Daisy UI
+* Material UI
 * Tailwind CSS
 * ExpressJS
 * Sequelize
+* PostgreSQL
 
 👯 I’m looking to collaborate on
 * Web Development
