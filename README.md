@@ -1,6 +1,6 @@
 Hi there 👋
 
-I'm **Anugrah Kresnaya**, a fresh graduate of Informatis who is interested in **web development**. And I like to share the results of projects that I have made so far.
+I'm **Anugrah Kresnaya**, a Software Engineer who is interested in **web development** mostly on frontend, but i can do backend as well. And I like to share the results of projects that I have made so far.
 
 For You who might be curious about Me:
 
