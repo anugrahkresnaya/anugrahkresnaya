@@ -25,7 +25,7 @@ For You who might be curious about Me:
 📫 How to reach me:
 * Gmail: anugrahkresnaya.ak@gmail.com
 * Instagram: https://www.instagram.com/anugrah_kresnaya/
-* LinkedIn: https://www.linkedin.com/in/anugrah-kresnaya-5628671ab/
+* LinkedIn: https://www.linkedin.com/in/anugrah-kresnaya/
 * Twitch: https://www.twitch.tv/kazecrowz
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anugrahkresnaya&theme=midnight-purple&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
